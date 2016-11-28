@@ -17,7 +17,7 @@ LDBusMediator is available through [CocoaPods](http://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod "LDBusMediator"
+pod 'LDBusMediator' , :git => 'https://github.com/zzw19880707/LDBusMediator'
 ```
 
 ## Author
