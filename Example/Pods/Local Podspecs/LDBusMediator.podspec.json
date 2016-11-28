@@ -1,0 +1,22 @@
+{
+  "name": "LDBusMediator",
+  "version": "0.1.0",
+  "summary": "A short description of LDBusMediator.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/<GITHUB_USERNAME>/LDBusMediator",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "zzw19880707": "zzw414851474@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/<GITHUB_USERNAME>/LDBusMediator.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "LDBusMediator/Classes/**/*"
+}

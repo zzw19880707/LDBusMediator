@@ -1,0 +1,6 @@
+framework module LDBusMediator {
+  umbrella header "LDBusMediator-umbrella.h"
+
+  export *
+  module * { export * }
+}
